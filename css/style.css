@@ -69,6 +69,13 @@ button {
     cursor: pointer
 }
 
+#empty {
+    border: none;
+    margin-top: 20px;
+    color: #fff;
+    background: #ff0000bd
+}
+
 div {
     text-align: center
 }
@@ -85,6 +92,7 @@ div h3 {
 }
 
 div ul a {
+    font-weight: bold;
     color: #52520e
 }
 
