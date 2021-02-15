@@ -60,20 +60,26 @@ textarea:focus {
 }
 
 textarea {
-    margin: 20px 0;
+    margin-top: 20px;
     resize: none
 }
 
 button {
+    margin-top: 20px;
     font-weight: bold;
     cursor: pointer
 }
 
 #empty {
     border: none;
-    margin-top: 20px;
     color: #fff;
     background: #ff0000bd
+}
+
+p {
+    font-size: 14px;
+    color: darkred;
+    font-weight: bold
 }
 
 div {
